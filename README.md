@@ -5,6 +5,18 @@
 This document logs the setup, package management choices, and fixes applied while configuring an Ubuntu Linux machine for DevOps workflows.
 
 ---
+Setup Evidence & Verification Screenshots
+
+All setup verification evidence is organized inside the dedicated `screenshots/` directory:
+
+* **VS Code Installation:** `screenshots/vscode_installation.png`
+* **GitHub Account Dashboard:** `screenshots/github_dashboard.png`
+* **AWS Console Dashboard:** `screenshots/aws_dashboard.png`
+* **Azure Portal Dashboard:** `screenshots/azure_dashboard.png`
+* **Minikube Cluster Status:** `screenshots/Local_cluster_proof.png`
+* **Tools Verification Status:** `screenshots/tooling_verification_report_1.png`
+* **Tools Verification Status2:** `screenshots/tooling_verification_report_2.png`
+
 
 ## 1. Package Management 
 Tools were installed using a few different methods depending on how they are best maintained:
