@@ -11,7 +11,7 @@ All setup verification evidence is organized inside the dedicated `screenshots/`
 
 * **VS Code Installation:** `screenshots/vscode_installation.png`
 * **GitHub Account Dashboard:** `screenshots/github_dashboard.png`
-* **AWS Console Dashboard:** `screenshots/aws_dashboard.png`
+* **AWS Console Dashboard:** `screenshots/aws_dashboard_1.png`
 * **Azure Portal Dashboard:** `screenshots/azure_dashboard.png`
 * **Minikube Cluster Status:** `screenshots/Local_cluster_proof.png`
 * **Tools Verification Status:** `screenshots/tooling_verification_report_1.png`
