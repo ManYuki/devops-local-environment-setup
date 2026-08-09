@@ -16,6 +16,7 @@ All setup verification evidence is organized inside the dedicated `screenshots/`
 * **Minikube Cluster Status:** `screenshots/Local_cluster_proof.png`
 * **Tools Verification Status:** `screenshots/tooling_verification_report_1.png`
 * **Tools Verification Status2:** `screenshots/tooling_verification_report_2.png`
+* **Git Verification Status2:** `screenshots/evidence_of_git_installation.png`
 
 
 ## 1. Package Management 
